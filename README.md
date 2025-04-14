@@ -20,7 +20,7 @@ Bu projenin temel amacı:
 Bu listedeki hesapları filtrelemek için çeşitli yöntemler kullanabilirsiniz:
 
 1. Tarayıcı Eklentileri: Ekşi Sözlük için geliştirilmiş ve kullanıcı listesi bazlı filtreleme özelliği sunan eklentileri kullanabilirsiniz. (Eğer bilinen eklentiler varsa buraya örnekler eklenebilir).
-2. Kullanıcı Betikleri (Userscripts): Tampermonkey, ViolentMonkey gibi eklentiler aracılığıyla çalıştırılabilen ve bu listedeki kullanıcıları gizleyen/filtreleyenözel script'ler yazılabilir veya kullanılabilir.
+2. Kullanıcı Betikleri (Userscripts): Tampermonkey, ViolentMonkey gibi eklentiler aracılığıyla çalıştırılabilen ve bu listedeki kullanıcıları gizleyen/filtreleyen özel script'ler yazılabilir veya kullanılabilir. Örneğin: https://github.com/bat9254/anti-troll/
 3. Manuel Engelleme: Listeyi referans alarak ilgili hesapları Ekşi Sözlük üzerinden manuel olarak engelleyebilirsiniz.
 
 Listenin güncel `.txt` formatına [buradan](https://raw.githubusercontent.com/bat9254/troll-list/refs/heads/main/list.txt) ulaşabilirsiniz.
