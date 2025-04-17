@@ -42,10 +42,7 @@ Bu listenin güncel ve doğru kalması topluluk katkılarına bağlıdır. Katk�
 * Bu liste, bilgilendirme ve kişisel filtreleme amacıyla sunulmaktadır. Herhangi bir hesabı kesin olarak etiketleme veya yaftalama amacı gütmez.
 * Listenin kullanımından doğabilecek sonuçlardan repo sahipleri ve katkıda bulunanlar sorumlu tutulamaz. Kullanıcılar listeyi kendi sorumlulukları dahilinde kullanmalıdır.
 
-  ### Lisans
-
-Bu altında lisanslanmıştır.
-
+### Troller Hakkında Bilgi
 
 İnternet trolleri, çevrimiçi topluluklarda (forumlar, sosyal medya, sözlükler gibi) tartışmaları kasten rayından çıkarmak, okuyucuları kışkırtmak, duygusal tepkiler verdirmek veya genel olarak ortamı bozmak amacıyla hareket eden kişilerdir. 
 
