@@ -1,4 +1,8 @@
- ### Ekşi Sözlük Troll Filtreleme Listesi
+### Ekşi Sözlük Troll Filtreleme Listesi
+
+*şimdiki listede ~2500 aktroll var (çaylaklar dahil) (şimdiye kadarki en güncel ve kapsamlı liste) bütün her şey açık kaynak katkı yapabilirsiniz*
+
+eğer isterseniz "PRIMARY_LIST_URL'yi istediğiniz txt linki ile değiştirerek filtre listesini değiştirebilirsiniz
 
 Bu repo, Ekşi Sözlük platformunda troll olarak değerlendirilen veya şüphelenilen kullanıcı hesaplarını listelemek ve bu hesapların içeriklerini filtrelemek isteyen kullanıcılara yardımcı olmak amacıyla oluşturulmuştur.
 
